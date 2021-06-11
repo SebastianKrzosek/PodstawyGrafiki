@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>slonecznik.jpg</file>
+    </qresource>
+</RCC>
