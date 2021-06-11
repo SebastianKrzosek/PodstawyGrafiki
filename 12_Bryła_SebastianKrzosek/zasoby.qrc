@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tekstura2.png</file>
+    </qresource>
+</RCC>
